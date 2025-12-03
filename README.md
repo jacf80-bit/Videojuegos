@@ -1,2 +1,1 @@
-# Videojuegos
-Análisis del mercado mundial de videojuegos
+# Análisis del mercado mundial de videojuegos
